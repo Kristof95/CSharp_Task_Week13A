@@ -13,9 +13,9 @@ Extend the Employee class to have a reference to a Room class. Let the Room clas
 
 3.
 This exercise is about cloning, and the meaning of deep and shallow copy. Modify the Employee class to implement the ICloneable interface. Try the following code snippets in the definition of the Clone
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+########################################################################################################################################
 Timer winform
 In this exercise we will create a class that responds to a timer event. 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+########################################################################################################################################
 String Sorting
 In this exercise, you will write a function to sort a string.
