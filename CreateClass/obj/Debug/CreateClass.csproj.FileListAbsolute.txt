@@ -1,0 +1,8 @@
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csprojResolveAssemblyReference.cache
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+c:\users\kristof\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.TimerEvents.resources
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.GenerateResource.Cache

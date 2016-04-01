@@ -1,0 +1,9 @@
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.TimerEvents.resources
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+c:\users\kristof\documents\visual studio 2015\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
